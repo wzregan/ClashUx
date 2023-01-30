@@ -1,0 +1,1 @@
+a Clash UI for windows,this program depends on Qt6..
